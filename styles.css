@@ -1,0 +1,27 @@
+h1{
+    width: 90%;
+    margin: 0 auto;
+    background-color: rgba(90, 197, 250, 0.755)5);
+    font-family: sans-serif;
+    font-size: 2em;
+    border-radius: 15px;
+}
+
+.center{
+    margin: 1em auto;
+    text-align: center;
+    align-items: center;
+    width: 90%;
+    background-color: pink;
+    border-radius: 15px;
+}
+
+h2{
+    font-size: 3em;
+}
+.center img{
+    margin: 2em auto;
+    width: 400px;
+    height: auto;
+    border-radius: 15px;
+}
